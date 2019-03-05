@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "FINAL_STEP_UNITY",
+"dataUrl": "Build_For_WebGl_05_03_2019.data.unityweb",
+"asmCodeUrl": "Build_For_WebGl_05_03_2019.asm.code.unityweb",
+"asmMemoryUrl": "Build_For_WebGl_05_03_2019.asm.memory.unityweb",
+"asmFrameworkUrl": "Build_For_WebGl_05_03_2019.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
